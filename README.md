@@ -1,12 +1,14 @@
-# ift6135_assignment3
+# IFT6135 Representation Learning - Assignment 3
 
-This repository contains the source code Assignment 3 IFT6135. There is a jupyter notebook per problem.
+This repository contains our solutions to the practical part of Aaron Courville's Deep Learning third assignement - Winter 2019. 
 
-The weights used for plots and results can be found in the folder "weights/FINAL".
-
-Name of collaborators:
-
+Team members:
 - Yann Bouteiller
+- Sanae Lotfi
 - Abderrahim Khalifa
 - Amine Bellahsen
-- Sanae Lotfi
+
+
+There is one jupyter notebook per problem.
+
+The weights used for plots and results can be found in the folder "weights/FINAL".
